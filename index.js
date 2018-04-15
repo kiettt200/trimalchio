@@ -4,7 +4,7 @@ var menu = require('node-menu');
 const log = require('./utils/log');
 const { setupSlackBot } = require('./utils/slack');
 const { loadConfig } = require('./config');
-
+// This is a test
 // INIT PROXIES - NEED TO LOAD PROXIES
 var proxies = [];
 var reader = require('readline').createInterface({
