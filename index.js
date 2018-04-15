@@ -5,6 +5,7 @@ const log = require('./utils/log');
 const { setupSlackBot } = require('./utils/slack');
 const { loadConfig } = require('./config');
 // This is a test
+// This is also a test
 // INIT PROXIES - NEED TO LOAD PROXIES
 var proxies = [];
 var reader = require('readline').createInterface({
